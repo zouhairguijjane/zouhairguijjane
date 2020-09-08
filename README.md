@@ -18,7 +18,7 @@ My name is Zouhair Guijjane and I'm a Software Craftsman. I am from France, livi
 
 <br />
 
-### Some Languages and Tools:
+## 🔧 Technologies & Tools
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
