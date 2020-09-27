@@ -12,7 +12,7 @@ My name is Zouhair Guijjane and I'm a Software Craftsman. I am from France, livi
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with others to share knowledge
-- 🥅 2020 Goals: Contribute to Open Source projects and AWS certified
+- 🥅 2020 Goals: Contribute to Open Source projects and AWS certified ([AWS CCP][3])
 - 🚀 One day I will see humans on Mars!
 - ⚡ Fun fact: I know all memes
 
@@ -72,3 +72,4 @@ My name is Zouhair Guijjane and I'm a Software Craftsman. I am from France, livi
 
 [1]: https://twitter.com/zouhairguijjane
 [2]: https://linkedin.com/in/zouhairguijjane
+[3]: https://www.youracclaim.com/badges/f16808a7-2eb9-410d-a3e1-33f45ddde40b/
